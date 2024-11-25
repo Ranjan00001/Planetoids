@@ -5,8 +5,9 @@ This project is an object-oriented game called *Planetoids*, similar to the clas
 ## Running the Game
 
 1. Download the necessary files:
-   - The rest of the files can be accessed from the provided link: [Download Files Here](https://www.cs.cornell.edu/courses/cs1110/2022fa/assignments/a7/#copyrighted-material).
-   
+   - The rest of the files can be accessed from the provided link: [Download Files Here](https://www.cs.cornell.edu/courses/cs1110/2022fa/assignments/a7/planetoids.zip).
+   - Additionally the assignment instructions can be tracked [here](https://www.cs.cornell.edu/courses/cs1110/2022fa/assignments/a7/)
+
 2. Replace the files you've downloaded with the following files:
    - `Planetoids.py` (this file contains the main game controller).
    - `consts.py`
@@ -24,4 +25,4 @@ This project is an object-oriented game called *Planetoids*, similar to the clas
 5. Now follow the instructions on your screen.
 
 ### Note
-This project follows academic integrity standards; additional files have their respective ownership rights.
+This project is intended to showcase my work. Some files are not included here to respect academic integrity, as they are not my original code. All rights to the remaining files belong to their respective creators.
